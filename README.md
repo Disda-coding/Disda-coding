@@ -1,8 +1,13 @@
 - 👋 Hi, I’m Disda.
-- 👀 I’m interested in bodybuilding, coding(maybe)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 mail:497457669@qq.com
+- 🎓 Graduated from BUPT and recommended for postgraduate studies at BUPT
+- 💼 Interned at Tencent TEG in 2021
+- ⚡ Currently working at SGCC
+
+- 💻 Skilled in Python, Java, and Pandas
+- 🚀 Recently focused on vibe coding — building efficiently with intuition and flow
+
+Always exploring, always building.
+
 
 <!---
 Disda-coding/Disda-coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
